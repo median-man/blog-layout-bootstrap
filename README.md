@@ -13,8 +13,9 @@ Practice activity in creating a layout using Bootstrap 4.
 
 ## Solved
 
-- Checkout the `solved` branch to see a possible solution. (Yours me be different, yet equally correct.)
+- Checkout the `solved` branch to see a possible solution. (Yours may be
+  different, yet equally correct.)
 
 ## Wireframe
 
-![wireframe](wireframe.jpg)
+![wireframe](./wireframe.jpg)
