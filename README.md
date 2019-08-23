@@ -11,6 +11,10 @@ Practice activity in creating a layout using Bootstrap 4.
   wireframe. The layout does not need to match perfectly.
 - Use placeholder text and placeholder images as you see fit.
 
+## Solved
+
+- Checkout the `solved` branch to see a possible solution. (Yours me be different, yet equally correct.)
+
 ## Wireframe
 
 ![wireframe](wireframe.jpg)
